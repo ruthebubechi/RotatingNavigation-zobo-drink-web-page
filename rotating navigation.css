@@ -143,6 +143,10 @@ nav ul li + li + li {
   transform: translateX(-200%);
 }
 
+footer {
+  text-align: center;
+}
 footer small {
-  margin: 700px;
+  max-width: 1000px;
+  font-size: 12px;
 }
